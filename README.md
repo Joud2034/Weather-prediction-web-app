@@ -50,7 +50,7 @@ The model uses the following weather observations:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-prediction-web-app.git
+git clone https://github.com/Joud2034/weather-prediction-web-app.git
 ```
 
 Install the required packages:
